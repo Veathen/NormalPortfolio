@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import Library from "../../Assets/Projects/Schema.png";
+import Library from "./images/Schema.png";
 import Combo from "../../Assets/Projects/Combojumper logo.png";
 import MUD from "../../Assets/Projects/MUD.png";
 import Envirogram from "../../Assets/Projects/Envirogram.png";
