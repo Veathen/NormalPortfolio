@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NormalPortfolio/static/css/main.90156f93.css",
+    "main.js": "/NormalPortfolio/static/js/main.9c036237.js",
+    "static/js/415.4d6acbeb.chunk.js": "/NormalPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/NormalPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Portrait.jpg": "/NormalPortfolio/static/media/Portrait.92bda6159321c601496b.jpg",
+    "static/media/aboutBackground.png": "/NormalPortfolio/static/media/aboutBackground.78c7e91e03d9dd26c626.png",
+    "static/media/Mountain lavalamp.png": "/NormalPortfolio/static/media/Mountain lavalamp.dac8f92628a76f4cff23.png",
+    "static/media/Envirogram.png": "/NormalPortfolio/static/media/Envirogram.7f02bb0ac491757aa156.png",
+    "static/media/Cat paw cleared.png": "/NormalPortfolio/static/media/Cat paw cleared.6c1e9d2f5202f3ce5d96.png",
+    "static/media/About Image.png": "/NormalPortfolio/static/media/About Image.41dccfd84733f45dbd40.png",
+    "static/media/VitaliyMain.png": "/NormalPortfolio/static/media/VitaliyMain.46c3b666a26db9b1c7d6.png",
+    "static/media/Resume_Vitaliy_Sviridyuk.pdf": "/NormalPortfolio/static/media/Resume_Vitaliy_Sviridyuk.e721f65a22752c9af16e.pdf",
+    "static/media/logo.png": "/NormalPortfolio/static/media/logo.817b58650f32b9849ccd.png",
+    "static/media/Estore.png": "/NormalPortfolio/static/media/Estore.5740d716279c40731066.png",
+    "static/media/Schema.png": "/NormalPortfolio/static/media/Schema.11a1d8b6f556074d6580.png",
+    "static/media/Midi.jpg": "/NormalPortfolio/static/media/Midi.fe4c970607f14ec6aea3.jpg",
+    "static/media/Combojumper logo.png": "/NormalPortfolio/static/media/Combojumper logo.a82eb20a28ec851baad9.png",
+    "static/media/pre.svg": "/NormalPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/NormalPortfolio/index.html",
+    "main.90156f93.css.map": "/NormalPortfolio/static/css/main.90156f93.css.map",
+    "main.9c036237.js.map": "/NormalPortfolio/static/js/main.9c036237.js.map",
+    "415.4d6acbeb.chunk.js.map": "/NormalPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/NormalPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90156f93.css",
+    "static/js/main.9c036237.js"
+  ]
+}
