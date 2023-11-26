@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f4208882.css",
+    "main.css": "/Portfolio/static/css/main.dcedcd9e.css",
     "main.js": "/Portfolio/static/js/main.71b9c470.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
@@ -19,13 +19,13 @@
     "static/media/Combojumper logo.png": "/Portfolio/static/media/Combojumper logo.a82eb20a28ec851baad9.png",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
-    "main.f4208882.css.map": "/Portfolio/static/css/main.f4208882.css.map",
+    "main.dcedcd9e.css.map": "/Portfolio/static/css/main.dcedcd9e.css.map",
     "main.71b9c470.js.map": "/Portfolio/static/js/main.71b9c470.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4208882.css",
+    "static/css/main.dcedcd9e.css",
     "static/js/main.71b9c470.js"
   ]
 }
