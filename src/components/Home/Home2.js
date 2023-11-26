@@ -29,10 +29,10 @@ function Home2() {
               <br />
               My field of Interest's are designing new &nbsp;
               <i>
-                <b className="red">Web Products and Embedded Systems </b> and
+                <b className="red">Web Products and Embedded Systems Solutions </b> and
                 also in areas related to{" "}
                 <b className="red">
-                  Database Design.
+                  Server Side Development.
                 </b>
               </i>
               <br />
