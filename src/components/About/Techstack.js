@@ -12,6 +12,7 @@ import {
 } from "react-icons/di";
 import {
   SiC,
+  SiCsharp,
   SiApachetomcat,
   SiUnrealengine,
   SiStmicroelectronics,
@@ -29,7 +30,7 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <SiCsharp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />

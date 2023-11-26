@@ -468,6 +468,8 @@ button:focus {
   padding-top: 150px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
+  height: auto !important;
+  min-height: 100vh;
 }
 
 .project-card {
@@ -479,17 +481,16 @@ button:focus {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(136, 53, 53, 0.459) !important;
   color: white !important;
   background-color: transparent !important;
-  opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
 }
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  box-shadow: 0 4px 4px 5px rgba(255, 0, 0, 0.561) !important;
 }
 
 .blog-card {
@@ -568,7 +569,14 @@ button:focus {
   background-image: url(./Assets/aboutBackground.png) !important;
   color: white !important;
   background-repeat: repeat;
-  height: 98vh;
+  height: auto !important;
+  min-height: 100vh;
+  
+}
+
+.aboutText{
+  background-color: #7a2c2c7e !important;
+  box-shadow: 4px 5px 4px 3px rgba(168, 4, 4, 0.486) !important;
 }
 
 .tech-icons {
@@ -630,6 +638,8 @@ button:focus {
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
+  height: auto !important;
+  min-height: 100vh;
 }
 
 .resume {
