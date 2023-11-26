@@ -260,9 +260,11 @@ button:focus {
   background-position: top center;
   background-repeat: repeat;
   padding-top: 30px !important;
-  height: 100vh !important;
+  height: auto !important;
+  min-height: 100vh;
   
 }
+
 
 
 .portrait{
@@ -323,6 +325,7 @@ button:focus {
     padding-bottom: 2em !important;
   }
 }
+
 
 .home-main-image{
   width: 300px;
