@@ -53,7 +53,7 @@ function Projects() {
               imgPath={Library}
               isBlog={false}
               title="Library management system"
-              description="Utilized PostgreSQL, Python & psycopg2 and leveraged REST API's to create a librarymanagement system API capable of serving dozens of libraries in a well organized schema."
+              description="Utilized PostgreSQL, Python, psycopg2 and leveraged REST API's to create a librarymanagement system API capable of serving dozens of libraries in a well organized schema."
             />
           </Col>
 
